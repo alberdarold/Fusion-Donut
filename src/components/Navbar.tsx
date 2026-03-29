@@ -1,8 +1,10 @@
 import Link from "next/link";
+import AuthNav from "./AuthNav";
 
 const navLinks = [
   { href: "/news", label: "News" },
   { href: "/community", label: "Community" },
+  { href: "/members", label: "Members" },
   { href: "/learn", label: "Learn" },
   { href: "/about", label: "About" },
 ];
@@ -29,20 +31,7 @@ export default function Navbar() {
             ))}
           </nav>
 
-          <div className="flex items-center gap-3">
-            <Link
-              href="/login"
-              className="text-sm font-medium text-gray-300 hover:text-white transition-colors"
-            >
-              Sign in
-            </Link>
-            <Link
-              href="/join"
-              className="rounded-full bg-orange-500 px-4 py-2 text-sm font-semibold text-white hover:bg-orange-400 transition-colors"
-            >
-              Join Free
-            </Link>
-          </div>
+          <AuthNav />
         </div>
       </div>
     </header>
