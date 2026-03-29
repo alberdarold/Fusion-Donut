@@ -37,7 +37,7 @@ export default function JoinPage() {
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2 mb-6">
             <span className="text-3xl text-orange-400">⚛</span>
-            <span className="text-2xl font-bold text-white">FusionHub</span>
+            <span className="text-2xl font-bold text-white">FusionDonut</span>
           </Link>
           <h1 className="text-3xl font-bold text-white">Create your account</h1>
           <p className="mt-2 text-gray-400">Join the fusion energy community. Free forever.</p>

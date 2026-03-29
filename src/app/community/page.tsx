@@ -4,7 +4,7 @@ import { FORUM_CATEGORIES, FORUM_THREADS, formatRelativeTime } from "@/lib/commu
 import NewThreadButton from "@/components/NewThreadButton";
 
 export const metadata: Metadata = {
-  title: "Community Forums — FusionHub",
+  title: "Community Forums — FusionDonut",
   description: "Join discussions with fusion energy researchers and enthusiasts.",
 };
 

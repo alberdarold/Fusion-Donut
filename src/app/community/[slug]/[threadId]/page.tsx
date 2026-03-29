@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const thread = getThread(threadId);
   if (!thread) return {};
   return {
-    title: `${thread.title} — FusionHub`,
+    title: `${thread.title} — FusionDonut`,
     description: thread.body.slice(0, 160),
   };
 }

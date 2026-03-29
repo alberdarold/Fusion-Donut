@@ -16,7 +16,7 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <span className="text-2xl font-bold text-orange-400">⚛</span>
-            <span className="text-xl font-bold tracking-tight text-white">FusionHub</span>
+            <span className="text-xl font-bold tracking-tight text-white">FusionDonut</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-8">

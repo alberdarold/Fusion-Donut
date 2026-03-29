@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cat = FORUM_CATEGORIES.find((c) => c.slug === slug);
   if (!cat) return {};
   return {
-    title: `${cat.title} — FusionHub Community`,
+    title: `${cat.title} — FusionDonut Community`,
     description: cat.description,
   };
 }

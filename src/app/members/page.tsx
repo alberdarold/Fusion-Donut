@@ -3,8 +3,8 @@ import Link from "next/link";
 import { MEMBERS } from "@/lib/community-data";
 
 export const metadata: Metadata = {
-  title: "Members — FusionHub",
-  description: "Meet the fusion energy researchers, engineers, and enthusiasts in the FusionHub community.",
+  title: "Members — FusionDonut",
+  description: "Meet the fusion energy researchers, engineers, and enthusiasts in the FusionDonut community.",
 };
 
 const roleBadge: Record<string, string> = {

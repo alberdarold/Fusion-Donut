@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Learn Fusion Energy — FusionHub",
+  title: "Learn Fusion Energy — FusionDonut",
   description: "Educational resources on fusion energy for all knowledge levels.",
 };
 

@@ -144,7 +144,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       name,
       username,
       email,
-      bio: "New FusionHub member.",
+      bio: "New FusionDonut member.",
       role: "member",
       joinedAt: new Date().toISOString().split("T")[0],
       avatar: name

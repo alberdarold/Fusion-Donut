@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Fusion News — FusionHub",
+  title: "Fusion News — FusionDonut",
   description: "The latest news and breakthroughs in fusion energy.",
 };
 

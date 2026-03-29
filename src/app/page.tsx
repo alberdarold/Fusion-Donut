@@ -118,7 +118,7 @@ export default function HomePage() {
               Everything fusion, in one place
             </h2>
             <p className="mt-4 text-lg text-gray-400">
-              Whether you&apos;re a physicist, investor, student, or curious citizen — FusionHub has you covered.
+              Whether you&apos;re a physicist, investor, student, or curious citizen — FusionDonut has you covered.
             </p>
           </div>
           <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">

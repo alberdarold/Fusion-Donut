@@ -12,7 +12,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const member = getMember(username);
   if (!member) return {};
   return {
-    title: `${member.name} — FusionHub`,
+    title: `${member.name} — FusionDonut`,
     description: member.bio,
   };
 }

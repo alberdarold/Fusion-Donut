@@ -32,10 +32,10 @@ export default function LoginPage() {
         <div className="text-center mb-8">
           <Link href="/" className="inline-flex items-center gap-2 mb-6">
             <span className="text-3xl text-orange-400">⚛</span>
-            <span className="text-2xl font-bold text-white">FusionHub</span>
+            <span className="text-2xl font-bold text-white">FusionDonut</span>
           </Link>
           <h1 className="text-3xl font-bold text-white">Welcome back</h1>
-          <p className="mt-2 text-gray-400">Sign in to your FusionHub account.</p>
+          <p className="mt-2 text-gray-400">Sign in to your FusionDonut account.</p>
         </div>
 
         <div className="rounded-2xl border border-gray-800 bg-gray-900 p-8">

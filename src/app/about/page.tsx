@@ -1,17 +1,17 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About — FusionHub",
-  description: "FusionHub is the community platform for fusion energy.",
+  title: "About — FusionDonut",
+  description: "FusionDonut is the community platform for fusion energy.",
 };
 
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-16">
-      <h1 className="text-4xl font-bold text-white mb-6">About FusionHub</h1>
+      <h1 className="text-4xl font-bold text-white mb-6">About FusionDonut</h1>
       <div className="prose prose-invert prose-lg max-w-none text-gray-300">
         <p>
-          FusionHub is the community platform for everyone who believes fusion energy will
+          FusionDonut is the community platform for everyone who believes fusion energy will
           transform civilization. We bring together physicists, engineers, investors, policymakers,
           and curious citizens to share knowledge, track progress, and accelerate the fusion revolution.
         </p>

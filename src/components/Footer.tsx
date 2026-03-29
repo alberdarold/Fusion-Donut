@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="flex items-center gap-2">
               <span className="text-2xl text-orange-400">⚛</span>
-              <span className="text-lg font-bold text-white">FusionHub</span>
+              <span className="text-lg font-bold text-white">FusionDonut</span>
             </Link>
             <p className="mt-3 text-sm text-gray-400 max-w-xs">
               The community for fusion energy enthusiasts, researchers, and advocates.
@@ -52,7 +52,7 @@ export default function Footer() {
           ))}
         </div>
         <div className="mt-10 border-t border-gray-800 pt-6 text-center text-xs text-gray-600">
-          © {new Date().getFullYear()} FusionHub. Building the fusion energy future together.
+          © {new Date().getFullYear()} FusionDonut. Building the fusion energy future together.
         </div>
       </div>
     </footer>

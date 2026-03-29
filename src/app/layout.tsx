@@ -11,12 +11,12 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "FusionHub — The Fusion Energy Community",
+  title: "FusionDonut — The Fusion Energy Community",
   description:
     "Join the world's leading community for fusion energy enthusiasts, researchers, and advocates. Stay informed, connect with peers, and shape the future of clean energy.",
   keywords: ["fusion energy", "nuclear fusion", "clean energy", "ITER", "tokamak", "plasma physics"],
   openGraph: {
-    title: "FusionHub — The Fusion Energy Community",
+    title: "FusionDonut — The Fusion Energy Community",
     description: "Join the world's leading community for fusion energy enthusiasts and researchers.",
     type: "website",
   },
